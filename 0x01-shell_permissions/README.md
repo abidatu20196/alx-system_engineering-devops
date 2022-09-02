@@ -1,1 +1,1 @@
-Regular files should not be changed
+script that creates a directory called my_dir with permissions 751 in the working directory
